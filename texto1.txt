@@ -1,0 +1,1 @@
+Se agrego el color rojo a la pantalla home
